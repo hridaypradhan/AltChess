@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1589131408 source:c:\users\hrida\documents\university\second semester\data structures\ds project\altchesssubmission\functionworking.c
+	"ChessUtilities.h"
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1588946620 c:\users\hrida\documents\university\second semester\data structures\ds project\altchesssubmission\chessutilities.h
+	"HelperFunctions.h"
+
+1589037443 c:\users\hrida\documents\university\second semester\data structures\ds project\altchesssubmission\helperfunctions.h
+
+1589133053 source:c:\users\hrida\documents\university\second semester\data structures\ds project\altchesssubmission\altchessmain.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<malloc.h>
+	"ChessUtilities.h"
+
